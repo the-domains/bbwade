@@ -1,7 +1,7 @@
 name: bbwade
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.50544
+typography_spectrum: 0.49782
 title: My First Grid Site
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.875
-  lightness: 0.875
-  saturation: 0.125
-  rhythmicContrast: 0.3140510874800384
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
